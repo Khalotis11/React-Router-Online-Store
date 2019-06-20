@@ -1,0 +1,33 @@
+.home-container {
+  text-align: center;
+  color: #18a2b8;
+  font-size: 35px;
+  margin-top: 65px;
+}
+.navigation {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-bar {
+    text-decoration: none;
+    color: gray;
+    font-size: 19px;
+}
+.nav-bar1 {
+    border-bottom: 2px solid #fc0d49;
+}
+.shop-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.home-btn {
+  padding:6px 50px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: #fb703f;
+  color: white;
+  text-decoration: none;
+}
